@@ -6,12 +6,12 @@
 
 ### 🛠️ Mi Caja de Herramientas
 
-- **Lenguajes:** JavaScript, TypeScript, C#, SQL
-- **Frameworks/Librerías:** Node.js, NestJS, .NET, React
-- **Bases de datos:** MySQL, MongoDB
-- **Automatización:** n8n (¡Me encanta conectar servicios!)
-- **Herramientas:** Git, Docker, Postman, Visual Studio Code, Figma
-- **Despliegue:** GitHub, Vercel, Netlify
+- **Lenguajes:** JavaScript 📜, TypeScript 📘, C# 🖥️, SQL 📊
+- **Frameworks/Librerías:** Node.js 🟩, NestJS 🦅, .NET 🚀, React ⚛️
+- **Bases de datos:** MySQL 🐬, MongoDB 🍃
+- **Automatización:** n8n 🤖 (¡Me encanta conectar servicios!)
+- **Herramientas:** Git ⚙️, Docker 🐳, Postman 📩, Visual Studio Code 💻, Figma 🎨
+- **Despliegue:** GitHub 🐙, Vercel ⚡, Netlify 🌐
 
 ---
 
